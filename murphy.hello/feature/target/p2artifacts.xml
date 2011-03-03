@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='org.eclipse.update.feature' id='hello.feature' version='1.0.0'>
+    <properties size='7'>
+      <property name='artifact.size' value='1787'/>
+      <property name='download.size' value='1787'/>
+      <property name='download.md5' value='25e5aa494f669eef520f8a2fe325928b'/>
+      <property name='maven-groupId' value='murphy.hello'/>
+      <property name='maven-artifactId' value='feature'/>
+      <property name='maven-version' value='1.0.0'/>
+      <property name='download.contentType' value='application/zip'/>
+    </properties>
+  </artifact>
+</artifacts>

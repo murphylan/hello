@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="hello.feature" label="Feature" version="1.0.0">
+
+   <description url="http://www.example.com/description">
+      Murphy's osgi
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      Private
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      Public
+   </license>
+
+<plugin id="hello.a" download-size="2" install-size="1" version="1.0.0.201103031524" unpack="false"/>
+<plugin id="hello.b" download-size="2" install-size="1" version="1.0.0" unpack="false"/>
+</feature>

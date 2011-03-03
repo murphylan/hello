@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ActivationPolicy: lazy
+Bundle-Version: 1.0.0.201103031524
+Bundle-Name: A
+Bundle-Activator: hello.a.Activator
+Bundle-ManifestVersion: 2
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-SymbolicName: hello.a
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+

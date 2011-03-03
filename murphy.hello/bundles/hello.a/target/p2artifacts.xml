@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='hello.a' version='1.0.0.201103031524'>
+    <properties size='6'>
+      <property name='artifact.size' value='2327'/>
+      <property name='download.size' value='2327'/>
+      <property name='download.md5' value='57d0fb5a7df0d68506f5901e4bf77e2a'/>
+      <property name='maven-groupId' value='hello.a'/>
+      <property name='maven-artifactId' value='hello.a'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+</artifacts>

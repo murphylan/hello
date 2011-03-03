@@ -1,0 +1,1 @@
+mvn org.sonatype.tycho:maven-tycho-plugin:generate-poms -DgroupId=hello.a -Dtycho.targetPlatform=D:\software\eclipse-SDK-3.6-win32\eclipse\
